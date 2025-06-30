@@ -1,7 +1,5 @@
-# TE-OI YOUSSOUFA
-![DevOps](https://img.shields.io/badge/DevOps-%23007ACC?style=for-the-badge&logo=azuredevops&logoColor=white)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-%2300C853?style=for-the-badge&logo=hackthebox&logoColor=white)
-![Cloud Architect](https://img.shields.io/badge/Cloud%20Architect-%234285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Metasploit Contributor](https://img.shields.io/badge/Open%20Source-Metasploit-%23e0234e?style=for-the-badge&logo=github&logoColor=white)
+# 👋 Hi, I'm aftyoussoufa
 
-<!-- More about you below... -->
+![Aftyoussoufa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aftyoussoufa&show_icons=true&theme=dark&hide_border=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aftyoussoufa&layout=compact&theme=dark)
+![GitHub Streak](https://streak-stats.demolab.com/?user=aftyoussoufa&theme=dark)
